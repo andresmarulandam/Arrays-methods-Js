@@ -92,5 +92,4 @@ for (let index = 0; index < personnel.length; index++) {
     a += person.pilotingScore + person.shootingScore;
   }
 }
-
 console.log(a);
